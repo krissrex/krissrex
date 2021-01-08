@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 <!-- I stole this from asmundh, thanks :) -->
 ![Profile views](https://gpvc.arturio.dev/krissrex)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=krissrex&count_private=true&hide=stars" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krissrex&layout=compact" />
